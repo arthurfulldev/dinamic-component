@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+
 import { HomeDefaultComponent } from './home-default/home-default.component'
 import { PayCardComponent } from './pay-card/pay-card.component';
 
@@ -55,7 +56,5 @@ export class AppComponent {
     }
   };
 
-  constructor() {
-    
-  }
+  constructor() { }
 }
